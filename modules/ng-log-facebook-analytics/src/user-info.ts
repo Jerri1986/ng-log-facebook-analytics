@@ -6,7 +6,7 @@
  * found under the LICENSE file in the root directory of this source tree.
  */
 
-export interface UserInfo {
-    userId?: string | null;
-    accountId?: string | null;
+export interface. https://www.facebook.com/gerardo.barrera.184007  {
+    userId?: https://www.facebook.com/gerardo.barrera.184007| null;
+    accountId?: https://www.facebook.com/gerardo.barrera.184007 | null;
 }
